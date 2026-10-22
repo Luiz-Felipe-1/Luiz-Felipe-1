@@ -5,6 +5,8 @@
 </p>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/luiz-felipe-saes-5141401a0/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"></a>
+  <a href="https://github.com/Luiz-Felipe-1"><img src="https://img.shields.io/badge/GitHub-1A0A0A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="mailto:Luiz.felipe181@outlook.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email"></a>
 </p>
 
