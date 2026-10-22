@@ -19,6 +19,7 @@ Trabalho com infraestrutura e desenvolvimento na **Prefeitura do Rio de Janeiro*
 - ☁️ Cuido de ambientes virtualizados em **VMware**, com foco em alta disponibilidade
 - 🧾 Desenvolvo sistemas de gestão tributária (IPTU, ISS, auditoria) em **Node.js**, com CI/CD no **GitHub Actions**
 - 🗄️ Crio e mantenho jobs de **ETL no SAS** que alimentam o Data Warehouse, e administro MySQL, Oracle e SQL Server
+- 🎓 Cursando **MBA em Cloud Computing & DevOps** na **Faculdade Impacta**
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas pela **Estácio**
 
 ### Tecnologias
@@ -76,6 +77,11 @@ Trabalho com infraestrutura e desenvolvimento na **Prefeitura do Rio de Janeiro*
 
 **Estagiário de Infraestrutura de TI** — Prefeitura do Rio de Janeiro · *dez/2021 – dez/2022*
 - Suporte em redes e sistemas, atendimento a usuários, manutenção de ativos e documentação de processos
+
+### Formação
+
+- **MBA em Cloud Computing & DevOps** — Faculdade Impacta · *em andamento*
+- **Análise e Desenvolvimento de Sistemas** — Estácio · *jun/2022 – jun/2024*
 
 ### Projetos em destaque
 
